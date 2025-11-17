@@ -4,10 +4,10 @@
   "version": "1.0.0",
   "apiLevel": 2,
   "meta": {
-    "name": "slapCommand",
-    "tagline": "A short tagline that appears below the name",
-    "description": "A longer description that can **use Markdown**",
-    "authors": ["You!"],
-    "source": "https://example.com/"
+    "name": "Slap",
+    "tagline": "Adds a command from the land before Discord.",
+    "authors": ["korbosoft"],
+    "source": "https://github.com/korbosoft/moonlight-extensions/",
+    "tags": ["fun", "chat"],
   }
 }
