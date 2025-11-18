@@ -5,7 +5,8 @@
   "apiLevel": 2,
   "meta": {
     "name": "Slap",
-    "tagline": "Brings the /slap command popularized from the program mIRC to Discord.",
+    "tagline": "Adds a command from the land before Discord.",
+    "description": "This extension brings the /slap command popularized from the program mIRC to Discord.\n`/slap victim:ABC` sends the message \"@You slaps ABC around a bit with a large trout\" in the current channel.",
     "authors": ["korbosoft"],
     "source": "https://github.com/korbosoft/moonlight-extensions/",
     "tags": ["fun", "chat"]
