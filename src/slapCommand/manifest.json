@@ -8,6 +8,7 @@
     "tagline": "Adds a command from the land before Discord.",
     "authors": ["korbosoft"],
     "source": "https://github.com/korbosoft/moonlight-extensions/",
-    "tags": ["fun", "chat"],
-  }
+    "tags": ["fun", "chat"]
+  },
+  "dependencies": ["commands", "common"]
 }
