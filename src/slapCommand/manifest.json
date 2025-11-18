@@ -5,7 +5,7 @@
   "apiLevel": 2,
   "meta": {
     "name": "Slap",
-    "tagline": "Adds a command from the land before Discord.",
+    "tagline": "Brings the /slap command popularized from the program mIRC to Discord.",
     "authors": ["korbosoft"],
     "source": "https://github.com/korbosoft/moonlight-extensions/",
     "tags": ["fun", "chat"]
