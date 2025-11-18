@@ -12,7 +12,8 @@ Commands.registerCommand({
         {
             name: "victim",
             description: "The victim of the slapping",
-            type: OptionType.STRING
+            type: OptionType.STRING,
+            required: true
         }
     ],
     execute: (options) => {
